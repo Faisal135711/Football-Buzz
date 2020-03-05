@@ -1,0 +1,41 @@
+
+.topRow{
+	background-color: teal;
+	position: relative;
+	height: 100px;
+	width: 100%;	
+}
+
+.banners{
+width: 100%;
+font-family: 'Graduate', cursive;
+text-align: center;
+font-size: 70px;
+}
+.navbarBackground{
+	
+	background-color: crimson;
+}
+
+.abc{
+	
+	max-height: 20%;
+	max-width: 20% ;
+	margin-top: 40px;
+	margin-left: 80px;
+	object-fit: contain;
+}
+.clsAutoFit{
+	margin-top:20px;
+	width:    545px;
+	height:   303px;
+	
+	
+}
+
+
+.clsImg{
+	width: 100%;
+	height: 100%;
+	
+}

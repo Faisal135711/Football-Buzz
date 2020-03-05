@@ -1,0 +1,19 @@
+
+
+.topRow{
+	background-color: teal;
+	position: relative;
+	height: 100px;
+	width: 100%;	
+}
+
+.banners{
+width: 100%;
+font-family: 'Graduate', cursive;
+text-align: center;
+font-size: 70px;
+}
+.navbarBackground{
+	
+	background-color: crimson;
+}

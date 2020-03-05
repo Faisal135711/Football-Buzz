@@ -1,0 +1,16 @@
+var bk_results = {
+ "campaigns": [
+  {
+    "campaign": 229887,
+    "BKUUID": "yXpYnZqS99eT3vjq",
+    "BKUUID_noslash": "yXpYnZqS99eT3vjq",
+    "timestamp": 1537655674,
+    "categories": [
+    {
+     "categoryID": 1009462,
+     "timestamp": 1537655648
+    }
+    ]
+  }
+ ]
+};

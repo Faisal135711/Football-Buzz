@@ -1,0 +1,61 @@
+#wrappers{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+a{
+	display: block;
+}
+
+.abc{
+	
+	
+	font-size: 100px; text-decoration: none;
+}
+
+div a.categor_link{
+	display: block;
+	padding: 5px;
+	padding-top: 100px;
+	padding-bottom: 10px;
+	border: 6px #606060;
+	margin-bottom: 50px;
+	background-color: #000000;
+	color: #60BB18;	
+	width: 100%;
+	font-size: 146px;
+	font: italic;
+	text-decoration-color: azure;
+}
+
+
+a.categorlink:hover{
+	
+	background-color: #dddddd;
+}
+
+
+.container-outer{
+	margin: 0 auto;
+	width: 100%;
+}
+
+.topRow{
+	background-color: teal;
+	position: relative;
+	height: 100px;
+	width: 100%;	
+}
+
+.banners{
+width: 100%;
+font-family: 'Graduate', cursive;
+text-align: center;
+font-size: 70px;
+}
+.navbarBackground{
+	
+	background-color: crimson;
+}
+
