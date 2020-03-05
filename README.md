@@ -4,3 +4,6 @@ This project is basically a blog site about football. Registered Users can post,
 
 ![](images/demo1.PNG)
 
+![](images/demo2.PNG)
+
+![](images/demo3.PNG)
